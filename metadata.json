@@ -1,0 +1,7 @@
+{
+  "name": "AuraZen - AI Guided Meditation & Soundscapes",
+  "description": "Generate custom guided meditation sessions with bespoke high-resolution visuals, natural expressive AI voiceovers, and mindful AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
